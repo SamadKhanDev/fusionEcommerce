@@ -6,6 +6,9 @@ This project is developed using Laravel framework for [your topic].
 ## Features
 - Authentication
 - CRUD Operations
+-API
+-AJAX
+-Payments
 - MVC Architecture
 
 ## Installation
