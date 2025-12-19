@@ -1,0 +1,12 @@
+1. Go to project directory and run " composer update "
+
+2.  Create a database called "laraecommerce_dbl" and import the sql file ( sql file is given inside the project )
+
+That's all
+
+3. Or You can checkout this video :   https://youtu.be/yVkx0-IASvM
+
+
+Admin Username : admin@gmail.com
+
+Admin Password : 12345678
